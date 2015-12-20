@@ -3,3 +3,5 @@ yinshunjun
 100
 
 BeiJing
+
+version 2.0
